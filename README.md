@@ -1,7 +1,7 @@
 # ACTIVIDAD 1
 
-Duración: 90 minutos.
-Máximo grupos de dos alumnos. (No compañeros de obligatorio) 
+Duración: 120 minutos.
+Máximo grupos de tres alumnos. 
 
 Descripción:
 En función de este template usted deberá crear un repositorio llamado: Actividad1_nroEstudiante_nroEstudiante. 
