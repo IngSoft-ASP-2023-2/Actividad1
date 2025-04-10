@@ -4,7 +4,7 @@ Duración: 120 minutos.
 Máximo grupos de tres alumnos. 
 
 Descripción:
-En función de este template usted deberá crear un repositorio llamado: Actividad1_nroEstudiante_nroEstudiante. 
+En función de este template usted deberá crear un repositorio llamado: Actividad1_nroEstudiante_nroEstudiante_nroEstudiante. 
 
 Sobre el template desarrollado en nodeJS usted deberá lograr los siguientes puntos:
 
