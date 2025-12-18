@@ -27,7 +27,7 @@ La aplicación debe tener especificado correctamente Docker + Docker Compose.
 3. Despliegue
 
 La aplicación debe ser desplegada en AWS con su herramienta de preferencia (EB, ECS, EC2, etc). Debe permitir acceder mediante cliente HTTP (ej: CURL, Postman) CURL a la nueva funcionalidad de gestión de tareas.
-Al final de la clase deberá mostrar al docente la aplicación desplegada y funcionando.
+Se deberá dejar en un archivo PDF en una carpeta Entrega las capturas de pantalla del proceso de despliegue y evidencia de la ejecución de las requests enviadas usando Postman o curl. Asegúrese al final de la clase de mostrar al docente la aplicación desplegada y funcionando.  
 
 
 4. Cuestionario
