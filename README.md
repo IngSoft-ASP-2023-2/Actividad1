@@ -31,7 +31,7 @@ B. Portabilidad: La aplicación debe tener especificado correctamente Docker + D
 <br><br>
 C. Despliegue: La aplicación debe ser desplegada en AWS utilizando ECS. Debe permitir acceder mediante cliente HTTP (ej: CURL, Postman) a la nueva funcionalidad de gestión de tareas.
 
-Importante: Debe tomar capturas de pantalla que muestren el proceso seguido y el resultado obtenido. Esto debe quedar incluído en una carpeta llamada “evidencia” en el repositorio.
+**Importante: Debe tomar capturas de pantalla que muestren el proceso seguido y el resultado obtenido. Esto debe quedar incluído en una carpeta llamada “evidencia” en el repositorio.**
 <br><br>
 **2.- Responda las siguientes preguntas relacionadas con 12 factor app modificando el README.md del repositorio**
 
