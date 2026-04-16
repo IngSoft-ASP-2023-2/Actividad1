@@ -15,7 +15,7 @@ Por otro lado, las notas, se asocian a una tarea, un nombre de estudiante y el v
 
 ## Consigna:
 
-1.- En este repo y desarrollado en nodeJS usted deberá lograr los siguientes puntos:
+**1.- En este repo y desarrollado en nodeJS usted deberá lograr los siguientes puntos:**
 
 A. Extensión de funcionalidad: 
 Se debe agregar las siguientes funcionalidades:
@@ -27,17 +27,13 @@ Se debe agregar las siguientes funcionalidades:
 La persistencia de esta información debe desarrollarse sobre el servicio de AWS.
 *Pueden utilizar otras tecnologías diferentes a NodeJS y DynamoDB para el desarrollo de esta actividad. (Sugerimos nodejs+dynamo porque las dimos en clase)*
 <br><br>
-
 B. Portabilidad: La aplicación debe tener especificado correctamente Docker + Docker Compose.
 <br><br>
-
 C. Despliegue: La aplicación debe ser desplegada en AWS utilizando ECS. Debe permitir acceder mediante cliente HTTP (ej: CURL, Postman) a la nueva funcionalidad de gestión de tareas.
 
 Importante: Debe tomar capturas de pantalla que muestren el proceso seguido y el resultado obtenido. Esto debe quedar incluído en una carpeta llamada “evidencia” en el repositorio.
-
 <br><br>
-
-2.- Responda las siguientes preguntas relacionadas con 12 factor app modificando el README.md del repositorio
+**2.- Responda las siguientes preguntas relacionadas con 12 factor app modificando el README.md del repositorio**
 
 
 a. Elijan 2 factores que creen haber aplicado correctamente en el desarrollo de la aplicación y expliquen por qué
